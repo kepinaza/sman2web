@@ -1,0 +1,25 @@
+{
+  "name": "sman2web",
+  "version": "1.0.0",
+  "description": "SMAN 2 MANOKWARI WEBSITE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JustPin",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.40.3",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "connect-mongo": "^5.1.0",
+    "connect-mongodb-session": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "express-validator": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.3"
+  }
+}
